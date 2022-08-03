@@ -1,0 +1,22 @@
+Root'umu sıralı dizimin 1.elemanı belirler.
+root= [7]
+2. elemanım [5] 7'den küçük, rootumun soluna yazarım.
+3. eleaman [1] 7'den ve 5'ten küçük, 5'in soluna yazarım.
+4. eleman [8] 7'den büyük, rootumun sağına yazarım.
+5. eleman [3] 7'den ve 5'ten küçük ama 1'den büyük, 1'in sağına yazarım.
+6. eleman [6] 7'den küçük ama 5'ten büyük, 5'in sağına yazarım.
+7. eleman [0] 7, 5 ve 1'den küçük, 1'in soluna yazarım.
+8. eleman [9] 7 ve 8'den büyük, 8'in sağına yazarım.
+9. eleman [4] 7 ve 5'ten küçük ama 1 ve 3'ten büyük, 3'ün sağına yazarım.
+10. eleaman [2] 7 ve 5'ten küçük, 1'den büyük ve 3'ten küçük, 3'ün soluna yazarım. 
+
+Binary search tree aşağıdaki gibidir:
+      7
+     / \
+    5   8
+   / \   \
+  1   6   9
+ / \
+0   3
+   / \
+  2   4
