@@ -1,2 +1,2 @@
 # data-structures-algorithms
-patika.dev
+www.patika.dev
